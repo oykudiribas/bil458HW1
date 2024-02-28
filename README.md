@@ -18,7 +18,7 @@ This Python code generates a downward triangle star pattern based on the specifi
     ```bash
     cd bil458HW1
     ```
-4. open the files in the current working directory in the Visual Studio Code environment.
+4. Open the files in the current working directory in the Visual Studio Code environment.
     ```bash
     code .
     ```
