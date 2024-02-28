@@ -18,14 +18,18 @@ This Python code generates a downward triangle star pattern based on the specifi
     ```bash
     cd bil458HW1
     ```
-4. Run the Python script:
+4. open the files in the current working directory in the Visual Studio Code environment.
+    ```bash
+    code .
+    ```
+5. Run the Python script:
     ```bash
     python downward_triangle.py
     ```
 
 ### Customize the Number of Rows
-- Open the Python script in a text editor.
-- Modify the `number` variable to the desired number of rows.
+- Open the Python script.
+- Default number in code is 7, modify the `number` variable to the desired number of rows.
 
 ## Example
 ```python
