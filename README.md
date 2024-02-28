@@ -12,17 +12,16 @@ This Python code generates a downward triangle star pattern based on the specifi
 1. Open a terminal or command prompt.
 2. Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+    git clone https://github.com/oykudiribas/bil458HW1.git
     ```
 3. Navigate to the repository:
     ```bash
-    cd REPO_NAME
+    cd bil458HW1
     ```
 4. Run the Python script:
     ```bash
-    python downward_triangle_star_pattern.py
+    python downward_triangle.py
     ```
-   Replace `downward_triangle_star_pattern.py` with the actual name of your Python file if needed.
 
 ### Customize the Number of Rows
 - Open the Python script in a text editor.
