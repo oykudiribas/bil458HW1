@@ -5,8 +5,8 @@ This Python code generates a downward triangle star pattern based on the specifi
 ## How to Use
 
 ### Prerequisites
-- Make sure you have Python installed on your machine.
-- I used Python 3.12.1
+- Make sure you have Python installed on your machine (I used Python 3.12.1)
+- Visual Studio Code environment is better but you can use text editor instead.
 
 ### Run the Code
 1. Open a terminal or command prompt.
@@ -18,7 +18,7 @@ This Python code generates a downward triangle star pattern based on the specifi
     ```bash
     cd bil458HW1
     ```
-4. Open the files in the current working directory in the Visual Studio Code environment.
+4. Open the files in the current working directory in the Visual Studio Code environment.( If you use text editor, open downward_triangle.py script directly.)
     ```bash
     code .
     ```
