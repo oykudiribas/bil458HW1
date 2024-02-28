@@ -6,6 +6,7 @@ This Python code generates a downward triangle star pattern based on the specifi
 
 ### Prerequisites
 - Make sure you have Python installed on your machine.
+- I used Python 3.12.1
 
 ### Run the Code
 1. Open a terminal or command prompt.
